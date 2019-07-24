@@ -37,6 +37,7 @@ Notes
 
 * Universities or other academic bodies may be able to provide such a service, but I've never seen such one. I asked to several institutions without success. 
 * Note that the redirection file has to end with `.html` so that <http://l.4open.science/11> is served with the proper content-type
+* HTTP redirections: today, `l.4open.science` is hosted on [Github Pages](https://pages.github.com/) and Github Pages does not support HTTP redirections.
 
 
 
